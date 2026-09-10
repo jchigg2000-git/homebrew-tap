@@ -2,8 +2,7 @@ cask "mullion" do
   version "1.0.0"
   sha256 "f9ebfceaddeb5a9d14a0ff790a5025b7ca2f4b2886bed492878edcd4f604b147"
 
-  url "https://github.com/jchigg2000-git/mullion/releases/download/v#{version}/Mullion-#{version}.dmg",
-      verified: "github.com/jchigg2000-git/mullion/"
+  url "https://github.com/jchigg2000-git/mullion/releases/download/v#{version}/Mullion-#{version}.dmg"
   name "Mullion"
   desc "Window manager for ultrawide and superwide displays"
   homepage "https://github.com/jchigg2000-git/mullion"
