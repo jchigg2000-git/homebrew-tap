@@ -1,6 +1,6 @@
 cask "mullion" do
-  version "1.0.0"
-  sha256 "f9ebfceaddeb5a9d14a0ff790a5025b7ca2f4b2886bed492878edcd4f604b147"
+  version "1.0.1"
+  sha256 "73e90e8881dfd04d9e9e06ad32b70705fc6ab6d202f0fe942fa6287e3916d6a9"
 
   url "https://github.com/jchigg2000-git/mullion/releases/download/v#{version}/Mullion-#{version}.dmg"
   name "Mullion"
